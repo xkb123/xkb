@@ -2,7 +2,7 @@
 Cache.java
 CacheException.java
 CacheManager.java
-CacheManagerAware.java
+
 MapCache.java
 MemoryConstrainedCacheManager.java
 package-info.java
